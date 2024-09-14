@@ -1,0 +1,165 @@
+{
+    "data": {
+        "text": {
+            "confidence": 0.9044050574302673,
+            "words": [
+                {
+                    "confidence": 0.8860791325569153,
+                    "word": "Zenith"
+                },
+                {
+                    "confidence": 0.9804036021232605,
+                    "word": "MVP"
+                },
+                {
+                    "confidence": 0.9754095673561096,
+                    "word": "Tour"
+                },
+                {
+                    "confidence": 0.9776021242141724,
+                    "word": "Series"
+                },
+                {
+                    "confidence": 0.9895359873771667,
+                    "word": "56511"
+                },
+                {
+                    "confidence": 0.9895359873771667,
+                    "word": "609-955-4266"
+                },
+                {
+                    "confidence": 0.9546506404876709,
+                    "word": "609-955"
+                },
+                {
+                    "confidence": 0.9889597296714783,
+                    "word": "-4266"
+                },
+                {
+                    "confidence": 0.9655486345291138,
+                    "word": "Fairway"
+                },
+                {
+                    "confidence": 0.9720259308815002,
+                    "word": "PREMIUM"
+                },
+                {
+                    "confidence": 0.7216789126396179,
+                    "word": "birdle"
+                }
+            ]
+        },
+        "colors": [
+            {
+                "color": {
+                    "red": 196,
+                    "green": 157,
+                    "blue": 147,
+                    "alpha": null
+                },
+                "score": 0.2568109631538391,
+                "pixelFraction": 0.12861357629299164,
+                "name": "Quicksand"
+            },
+            {
+                "color": {
+                    "red": 187,
+                    "green": 153,
+                    "blue": 153,
+                    "alpha": null
+                },
+                "score": 0.20912104845046997,
+                "pixelFraction": 0.08141592890024185,
+                "name": "Thatch"
+            },
+            {
+                "color": {
+                    "red": 218,
+                    "green": 172,
+                    "blue": 158,
+                    "alpha": null
+                },
+                "score": 0.17545773088932037,
+                "pixelFraction": 0.14129793643951416,
+                "name": "Eunry"
+            },
+            {
+                "color": {
+                    "red": 142,
+                    "green": 112,
+                    "blue": 117,
+                    "alpha": null
+                },
+                "score": 0.09575995802879333,
+                "pixelFraction": 0.020766962319612503,
+                "name": "Opium"
+            },
+            {
+                "color": {
+                    "red": 207,
+                    "green": 173,
+                    "blue": 174,
+                    "alpha": null
+                },
+                "score": 0.08601641654968262,
+                "pixelFraction": 0.06772861629724503,
+                "name": "Clam Shell"
+            },
+            {
+                "color": {
+                    "red": 109,
+                    "green": 79,
+                    "blue": 87,
+                    "alpha": null
+                },
+                "score": 0.06237548962235451,
+                "pixelFraction": 0.012625368312001228,
+                "name": "Ferra"
+            },
+            {
+                "color": {
+                    "red": 78,
+                    "green": 47,
+                    "blue": 54,
+                    "alpha": null
+                },
+                "score": 0.02577676996588707,
+                "pixelFraction": 0.008200589567422867,
+                "name": "Livid Brown"
+            },
+            {
+                "color": {
+                    "red": 180,
+                    "green": 162,
+                    "blue": 158,
+                    "alpha": null
+                },
+                "score": 0.01672469452023506,
+                "pixelFraction": 0.09793510288000107,
+                "name": "Martini"
+            },
+            {
+                "color": {
+                    "red": 215,
+                    "green": 188,
+                    "blue": 169,
+                    "alpha": null
+                },
+                "score": 0.015774982050061226,
+                "pixelFraction": 0.03215339407324791,
+                "name": "Vanilla"
+            },
+            {
+                "color": {
+                    "red": 193,
+                    "green": 178,
+                    "blue": 177,
+                    "alpha": null
+                },
+                "score": 0.010600936599075794,
+                "pixelFraction": 0.06631268560886383,
+                "name": "Pink Swan"
+            }
+        ]
+    }
+}

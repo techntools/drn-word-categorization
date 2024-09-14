@@ -1,0 +1,1215 @@
+{
+  "data": [
+    {
+      "type": "brand",
+      "id": 202,
+      "attributes": {
+        "BrandName": "1080 Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 5,
+      "attributes": {
+        "BrandName": "3C Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 160,
+      "attributes": {
+        "BrandName": "ABC Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 82,
+      "attributes": {
+        "BrandName": "Above Ground Level"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 204,
+      "attributes": {
+        "BrandName": "Aerobie"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 158,
+      "attributes": {
+        "BrandName": "Albatross Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 124,
+      "attributes": {
+        "BrandName": "Alfa Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 140,
+      "attributes": {
+        "BrandName": "All 4 Frisbee"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 179,
+      "attributes": {
+        "BrandName": "AquaFlight Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 172,
+      "attributes": {
+        "BrandName": "Arsenal Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 120,
+      "attributes": {
+        "BrandName": "AstroDisc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 90,
+      "attributes": {
+        "BrandName": "Axiom Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 2,
+      "attributes": {
+        "BrandName": "Bernoulli"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 174,
+      "attributes": {
+        "BrandName": "Best Disc Golf Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 93,
+      "attributes": {
+        "BrandName": "Birdie"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 109,
+      "attributes": {
+        "BrandName": "Black Zombie Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 152,
+      "attributes": {
+        "BrandName": "Cheap Discs (Refuture Ventures Ab)"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 157,
+      "attributes": {
+        "BrandName": "Cheengz/Hyperflite"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 183,
+      "attributes": {
+        "BrandName": "CHING Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 138,
+      "attributes": {
+        "BrandName": "Chumba Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 19,
+      "attributes": {
+        "BrandName": "Clash Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 12,
+      "attributes": {
+        "BrandName": "Compound Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 156,
+      "attributes": {
+        "BrandName": "Crosslap Disc Golf Parks"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 137,
+      "attributes": {
+        "BrandName": "Crown Me (Sunny Sporting Co. Ltd)"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 134,
+      "attributes": {
+        "BrandName": "Daredevil Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 189,
+      "attributes": {
+        "BrandName": "Deity Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 206,
+      "attributes": {
+        "BrandName": "Destiny/Dynamic Disc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 26,
+      "attributes": {
+        "BrandName": "Disc Golf Association"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 166,
+      "attributes": {
+        "BrandName": "Disc Golf UK Ltd."
+      }
+    },
+    {
+      "type": "brand",
+      "id": 176,
+      "attributes": {
+        "BrandName": "Disc King"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 35,
+      "attributes": {
+        "BrandName": "Discmania"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 38,
+      "attributes": {
+        "BrandName": "Discraft"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 118,
+      "attributes": {
+        "BrandName": "Disctroyer OÜ"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 197,
+      "attributes": {
+        "BrandName": "Discwing, Ltd."
+      }
+    },
+    {
+      "type": "brand",
+      "id": 75,
+      "attributes": {
+        "BrandName": "Divergent Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 196,
+      "attributes": {
+        "BrandName": "DKG Disc Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 191,
+      "attributes": {
+        "BrandName": "DMI Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 37,
+      "attributes": {
+        "BrandName": "Doomsday Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 58,
+      "attributes": {
+        "BrandName": "Dynamic Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 177,
+      "attributes": {
+        "BrandName": "Element Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 29,
+      "attributes": {
+        "BrandName": "Elevation Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 193,
+      "attributes": {
+        "BrandName": "EMSCO Group"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 126,
+      "attributes": {
+        "BrandName": "Essential Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 190,
+      "attributes": {
+        "BrandName": "Eurodisc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 144,
+      "attributes": {
+        "BrandName": "EV-7"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 73,
+      "attributes": {
+        "BrandName": "Evolvent Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 116,
+      "attributes": {
+        "BrandName": "Exel Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 194,
+      "attributes": {
+        "BrandName": "Ferris State University"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 94,
+      "attributes": {
+        "BrandName": "Finish Line Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 21,
+      "attributes": {
+        "BrandName": "Finuline"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 182,
+      "attributes": {
+        "BrandName": "Fly High Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 167,
+      "attributes": {
+        "BrandName": "FlyTec"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 33,
+      "attributes": {
+        "BrandName": "Forge Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 112,
+      "attributes": {
+        "BrandName": "FotCot Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 151,
+      "attributes": {
+        "BrandName": "Fourth Circle Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 146,
+      "attributes": {
+        "BrandName": "Franklin Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 128,
+      "attributes": {
+        "BrandName": "Full Turn Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 175,
+      "attributes": {
+        "BrandName": "Galaxy Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 72,
+      "attributes": {
+        "BrandName": "Gateway Disc Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 107,
+      "attributes": {
+        "BrandName": "Giant Industry"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 69,
+      "attributes": {
+        "BrandName": "Goeringer Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 60,
+      "attributes": {
+        "BrandName": "Goliath Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 51,
+      "attributes": {
+        "BrandName": "Gorilla Performance Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 96,
+      "attributes": {
+        "BrandName": "Goto Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 40,
+      "attributes": {
+        "BrandName": "Grassland Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 142,
+      "attributes": {
+        "BrandName": "GT Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 153,
+      "attributes": {
+        "BrandName": "Guru"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 161,
+      "attributes": {
+        "BrandName": "Hero Disc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 198,
+      "attributes": {
+        "BrandName": "Hero Leports Co., Ltd."
+      }
+    },
+    {
+      "type": "brand",
+      "id": 117,
+      "attributes": {
+        "BrandName": "Hobbysport"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 185,
+      "attributes": {
+        "BrandName": "Hole19 sarl"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 50,
+      "attributes": {
+        "BrandName": "Hooligan Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 139,
+      "attributes": {
+        "BrandName": "Hummingbird Flight Tech"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 28,
+      "attributes": {
+        "BrandName": "Independent Discs Sweden AB"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 8,
+      "attributes": {
+        "BrandName": "Infinite Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 9,
+      "attributes": {
+        "BrandName": "Innova"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 79,
+      "attributes": {
+        "BrandName": "Ire Gear"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 101,
+      "attributes": {
+        "BrandName": "ITC-Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 95,
+      "attributes": {
+        "BrandName": "Jester Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 42,
+      "attributes": {
+        "BrandName": "Kastaplast"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 168,
+      "attributes": {
+        "BrandName": "Kestrel Outdoors"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 127,
+      "attributes": {
+        "BrandName": "Kliffa Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 100,
+      "attributes": {
+        "BrandName": "Kraken Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 180,
+      "attributes": {
+        "BrandName": "Las Aves Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 74,
+      "attributes": {
+        "BrandName": "Latitude 64"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 150,
+      "attributes": {
+        "BrandName": "Launch Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 141,
+      "attributes": {
+        "BrandName": "LB Sport Loisir"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 98,
+      "attributes": {
+        "BrandName": "Legacy Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 199,
+      "attributes": {
+        "BrandName": "Lightning Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 89,
+      "attributes": {
+        "BrandName": "Løft Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 81,
+      "attributes": {
+        "BrandName": "Lone Star Disc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 99,
+      "attributes": {
+        "BrandName": "Lucky Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 64,
+      "attributes": {
+        "BrandName": "Manufacturer / Distributor"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 3,
+      "attributes": {
+        "BrandName": "Meridian Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 104,
+      "attributes": {
+        "BrandName": "Millennium Golf Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 70,
+      "attributes": {
+        "BrandName": "Mint Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 154,
+      "attributes": {
+        "BrandName": "Momentum Disc Golf AB"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 80,
+      "attributes": {
+        "BrandName": "Momentum Discs AB"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 91,
+      "attributes": {
+        "BrandName": "MVP Disc Sports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 88,
+      "attributes": {
+        "BrandName": "National Perk Service"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 59,
+      "attributes": {
+        "BrandName": "Negative"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 119,
+      "attributes": {
+        "BrandName": "Neptune Discs "
+      }
+    },
+    {
+      "type": "brand",
+      "id": 86,
+      "attributes": {
+        "BrandName": "Newb SimHouse Custom Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 102,
+      "attributes": {
+        "BrandName": "Ningbo Junye Stationery & Sports Articles Co., Ltd."
+      }
+    },
+    {
+      "type": "brand",
+      "id": 143,
+      "attributes": {
+        "BrandName": "Nordisc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 123,
+      "attributes": {
+        "BrandName": "Northstar Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 148,
+      "attributes": {
+        "BrandName": "Obsidian Discs Oy"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 71,
+      "attributes": {
+        "BrandName": "Ocean Discs "
+      }
+    },
+    {
+      "type": "brand",
+      "id": 147,
+      "attributes": {
+        "BrandName": "ODDGRIP"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 113,
+      "attributes": {
+        "BrandName": "Orbital Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 92,
+      "attributes": {
+        "BrandName": "Osuma Disc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 115,
+      "attributes": {
+        "BrandName": "OZDG"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 169,
+      "attributes": {
+        "BrandName": "Ozone Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 203,
+      "attributes": {
+        "BrandName": "Pacific Cycle"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 187,
+      "attributes": {
+        "BrandName": "Paradigm Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 155,
+      "attributes": {
+        "BrandName": "Parked LLC"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 111,
+      "attributes": {
+        "BrandName": "Pie Pan Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 178,
+      "attributes": {
+        "BrandName": "Plastic Addicts"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 205,
+      "attributes": {
+        "BrandName": "Plastic Paradise"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 136,
+      "attributes": {
+        "BrandName": "Precision Flytes"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 129,
+      "attributes": {
+        "BrandName": "Premier Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 77,
+      "attributes": {
+        "BrandName": "PrintPractical"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 41,
+      "attributes": {
+        "BrandName": "Prodigy Disc"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 76,
+      "attributes": {
+        "BrandName": "Prodiscus"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 30,
+      "attributes": {
+        "BrandName": "ProtoFlyte"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 135,
+      "attributes": {
+        "BrandName": "Prysm Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 201,
+      "attributes": {
+        "BrandName": "Quest Applied Technologies"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 114,
+      "attributes": {
+        "BrandName": "Remix Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 84,
+      "attributes": {
+        "BrandName": "Reptilian Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 192,
+      "attributes": {
+        "BrandName": "Rip Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 6,
+      "attributes": {
+        "BrandName": "RIPR"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 67,
+      "attributes": {
+        "BrandName": "Rogue Iron"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 83,
+      "attributes": {
+        "BrandName": "RPM Discs/Disc Golf Aotearoa"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 34,
+      "attributes": {
+        "BrandName": "Sacred Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 186,
+      "attributes": {
+        "BrandName": "Salient Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 97,
+      "attributes": {
+        "BrandName": "Sector"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 125,
+      "attributes": {
+        "BrandName": "Shenzhen Reanson Products Co., Ltd"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 195,
+      "attributes": {
+        "BrandName": "Skyiron"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 184,
+      "attributes": {
+        "BrandName": "Skyquest Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 200,
+      "attributes": {
+        "BrandName": "Snap Discsports"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 170,
+      "attributes": {
+        "BrandName": "Sportme"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 122,
+      "attributes": {
+        "BrandName": "STM Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 45,
+      "attributes": {
+        "BrandName": "Stokely Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 163,
+      "attributes": {
+        "BrandName": "Storm Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 106,
+      "attributes": {
+        "BrandName": "Streamline Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 78,
+      "attributes": {
+        "BrandName": "Supersonic Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 164,
+      "attributes": {
+        "BrandName": "Synergy Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 133,
+      "attributes": {
+        "BrandName": "Taito Frisbeegolf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 39,
+      "attributes": {
+        "BrandName": "Tefat"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 131,
+      "attributes": {
+        "BrandName": "Terminal Velocity Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 52,
+      "attributes": {
+        "BrandName": "Thought Space Athletics"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 181,
+      "attributes": {
+        "BrandName": "Tobu Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 165,
+      "attributes": {
+        "BrandName": "Tokyo Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 85,
+      "attributes": {
+        "BrandName": "Tomahawk Specialty Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 103,
+      "attributes": {
+        "BrandName": "Torch Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 159,
+      "attributes": {
+        "BrandName": "Tornado Throw"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 132,
+      "attributes": {
+        "BrandName": "TOSY"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 68,
+      "attributes": {
+        "BrandName": "Trash Panda Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 188,
+      "attributes": {
+        "BrandName": "UB Disc Golf - Hand Candy"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 149,
+      "attributes": {
+        "BrandName": "Universal Play Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 173,
+      "attributes": {
+        "BrandName": "Vibram Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 162,
+      "attributes": {
+        "BrandName": "Viking Discs (IP-Agency Finland Oy)"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 66,
+      "attributes": {
+        "BrandName": "Visionary Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 65,
+      "attributes": {
+        "BrandName": "Westside Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 171,
+      "attributes": {
+        "BrandName": "Wham-O, Inc."
+      }
+    },
+    {
+      "type": "brand",
+      "id": 130,
+      "attributes": {
+        "BrandName": "Wild Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 145,
+      "attributes": {
+        "BrandName": "Windward Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 110,
+      "attributes": {
+        "BrandName": "Wing It Disc Golf"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 108,
+      "attributes": {
+        "BrandName": "Wingman Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 1,
+      "attributes": {
+        "BrandName": "X-UFO (Ace Mould Co., Ltd)"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 10,
+      "attributes": {
+        "BrandName": "XCOM Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 87,
+      "attributes": {
+        "BrandName": "Yeet Street Discs"
+      }
+    },
+    {
+      "type": "brand",
+      "id": 121,
+      "attributes": {
+        "BrandName": "Yikun Discs"
+      }
+    }
+  ]
+}
