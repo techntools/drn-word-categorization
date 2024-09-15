@@ -12,7 +12,7 @@ import discs from '../discs-db.json'
 import sampleInput from '../sample-input.json'
 
 
-var words: { word: string }[] = sampleInput.data.text.words
+const words: { word: string }[] = sampleInput.data.text.words
 
 const phoneNumberPatterns = [
     /* (123) */
