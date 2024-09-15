@@ -14,28 +14,6 @@ import sampleInput from '../sample-input.json'
 
 const words: { word: string }[] = sampleInput.data.text.words
 
-const phoneNumberPatterns = [
-    /* (123) */
-    /^\(\d{3}\)/,
-
-    // 123-
-    /\d{3}\-/,
-
-    // -456
-    /\-\d{3}/,
-
-    // -4566
-    /\-\d{4}/,
-
-    // 456-
-    /\-\d{3}\-/,
-
-    /*
-     * Minimum of 3 digits to consider the word as number such as 123
-     */
-    /^\d+$/
-]
-
 const fuseOptions = {
     includeScore: true,
     threshold: 0.2,
@@ -43,15 +21,6 @@ const fuseOptions = {
 }
 
 var fuse: Fuse<any> = new Fuse(brands.data, fuseOptions)
-
-words.forEach(word => {
-    for (const pnp of phoneNumberPatterns) {
-        if (pnp.test(word.word)) {
-            word['category'] = 'PhoneNumber'
-            break
-        }
-    }
-})
 
 words.forEach(word => {
     if (word['category'] == 'PhoneNumber') return
@@ -83,6 +52,36 @@ words.forEach(word => {
     })
 
     word['discCategories'] = discCategories
+})
+
+const phoneNumberPatterns = [
+    /* (123) */
+    /^\(\d{3}\)/,
+
+    // 123-
+    /\d{3}\-/,
+
+    // -456
+    /\-\d{3}/,
+
+    // -4566
+    /\-\d{4}/,
+]
+
+words.forEach(word => {
+    /*
+     * If matches anything not allowed in phone number, ignore
+     */
+    if (/[^\-\d\(\)]{1}/.test(word.word)) {
+        return
+    }
+
+    for (const pnp of phoneNumberPatterns) {
+        if (pnp.test(word.word)) {
+            word['category'] = 'PhoneNumber'
+            break
+        }
+    }
 })
 
 console.table(words)
