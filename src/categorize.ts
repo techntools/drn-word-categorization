@@ -36,7 +36,7 @@ const phoneNumberPatterns = [
     /^\d+$/
 ]
 
-var fuseOptions = {
+const fuseOptions = {
     includeScore: true,
     threshold: 0.2,
     keys: ['attributes.MoldName', 'attributes.BrandName']
