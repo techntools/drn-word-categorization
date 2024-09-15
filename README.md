@@ -8,6 +8,6 @@ npm i
 npm i -g ts-node
 
 
-# Execute with ts-node
+## Execute with ts-node
 
 ts-node src/categorize
