@@ -25,16 +25,9 @@ var fuse: Fuse<any> = new Fuse(brands.data, fuseOptions)
 words.forEach(word => {
     if (word['category'] == 'PhoneNumber') return
 
-    const brandCategories = []
-
     const result = fuse.search(word.word)
-
-    result.forEach(res => {
-        if (!brandCategories.includes(res.item.attributes.BrandName))
-        brandCategories.push(res.item.attributes.BrandName)
-    })
-
-    word['brandCategories'] = brandCategories
+    if (result.length)
+        word['category'] = ['Brand']
 })
 
 var fuse: Fuse<any> = new Fuse(discs.data, fuseOptions)
@@ -42,16 +35,13 @@ var fuse: Fuse<any> = new Fuse(discs.data, fuseOptions)
 words.forEach(word => {
     if (word['category'] == 'PhoneNumber') return
 
-    const discCategories = []
-
     const result = fuse.search(word.word)
-
-    result.forEach(res => {
-        if (!discCategories.includes(res.item.attributes.BrandName))
-            discCategories.push(res.item.attributes.BrandName)
-    })
-
-    word['discCategories'] = discCategories
+    if (result.length) {
+        if (word['category'])
+            word['category'].push('Disc')
+        else
+            word['category'] = ['Disc']
+    }
 })
 
 const phoneNumberPatterns = [
