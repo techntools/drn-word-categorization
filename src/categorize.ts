@@ -68,7 +68,7 @@ words.forEach(word => {
 
     for (const pnp of phoneNumberPatterns) {
         if (pnp.test(word.word)) {
-            word['category'] = 'PhoneNumber'
+            word['category'] = ['PhoneNumber']
             break
         }
     }
