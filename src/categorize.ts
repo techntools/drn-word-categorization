@@ -1,3 +1,4 @@
+import type { FuseResultMatch, FuseResult } from 'fuse.js'
 import Fuse from 'fuse.js'
 
 /*
@@ -17,15 +18,23 @@ const words: { word: string }[] = sampleInput.data.text.words
 const fuseOptions = {
     includeScore: true,
     threshold: 0.2,
+    includeMatches: true,
     keys: ['attributes.MoldName', 'attributes.BrandName']
 }
 
 var fuse: Fuse<any> = new Fuse(brands.data, fuseOptions)
 
 words.forEach(word => {
+    word['matchedTo'] = []
+
     if (word['category'] == 'PhoneNumber') return
 
     const result = fuse.search(word.word)
+
+    const matchedTo = getMatchedText(result)
+    if (matchedTo)
+        word['matchedTo'] = [matchedTo]
+
     if (result.length)
         word['category'] = ['Brand']
 })
@@ -36,6 +45,11 @@ words.forEach(word => {
     if (word['category'] == 'PhoneNumber') return
 
     const result = fuse.search(word.word)
+
+    const matchedTo = getMatchedText(result)
+    if (matchedTo && !word['matchedTo'].includes(matchedTo))
+        word['matchedTo'].push(matchedTo)
+
     if (result.length) {
         if (word['category'])
             word['category'].push('Disc')
@@ -43,6 +57,28 @@ words.forEach(word => {
             word['category'] = ['Disc']
     }
 })
+
+function getMatchedText(searchResult: FuseResult<FuseResultMatch>[]) {
+    const matches = []
+
+    searchResult.forEach(res => {
+        matches.push({
+            matches: res.matches,
+            score: res.score
+        })
+    })
+
+    matches.sort(function(a, b) {
+        return (a.score > b.score) ? 1 : ((b.score > a.score) ? -1 : 0);
+    })
+
+    const matchedTo = []
+    matches[0]?.matches.forEach((match: FuseResultMatch) => {
+        matchedTo.push(match.value)
+    })
+
+    return matchedTo[0]
+}
 
 const phoneNumberPatterns = [
     /* (123) */
