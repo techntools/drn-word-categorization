@@ -18,6 +18,8 @@ const words: { word: string }[] = sampleInput.data.text.words
 const fuseOptions = {
     includeScore: true,
     threshold: 0.2,
+    distance: 30,
+    location: 0,
     includeMatches: true,
     keys: ['attributes.MoldName', 'attributes.BrandName']
 }
