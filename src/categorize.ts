@@ -25,8 +25,6 @@ const fuseOptions = {
 var fuse: Fuse<any> = new Fuse(brands.data, fuseOptions)
 
 words.forEach(word => {
-    word['matchedTo'] = []
-
     if (word['category'] == 'PhoneNumber') return
 
     const result = fuse.search(word.word)
@@ -47,8 +45,13 @@ words.forEach(word => {
     const result = fuse.search(word.word)
 
     const matchedTo = getMatchedText(result)
-    if (matchedTo && !word['matchedTo'].includes(matchedTo))
-        word['matchedTo'].push(matchedTo)
+    if (matchedTo) {
+        if (!word['matchedTo'])
+            word['matchedTo'] = []
+
+        if (!word['matchedTo'].includes(matchedTo))
+            word['matchedTo'].push(matchedTo)
+    }
 
     if (result.length) {
         if (word['category'])
